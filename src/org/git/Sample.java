@@ -6,6 +6,11 @@ public class Sample {
 
 	}
 
+	private void m2() {
+		
+		System.out.println("Dheekshu code");
+
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("Coding started");
