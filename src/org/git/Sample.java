@@ -1,6 +1,10 @@
 package org.git;
 
 public class Sample {
+	private void m1() {
+		System.out.println("Anu Method");
+
+	}
 
 	public static void main(String[] args) {
 		
@@ -8,9 +12,6 @@ public class Sample {
 		
 		System.out.println("line 1");
 		
-		System.out.println("Pushed Code Sucessfully ");
-		
-		System.out.println("pushing New code");
 		
 	}
 }
